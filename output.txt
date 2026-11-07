@@ -1,0 +1,10 @@
+--- IT Hardware Inventory Status ---
+Item Name: DDR4 RAM Stick 16GB
+In-Stock Quantity: 12 units
+Unit Price: PHP 2450.50
+Available for Deployment? true
+-------------------------------------
+Total Inventory Value: PHP 29406.0
+Packed Bundles (5/box): 2 (Loose Units: 2)
+Total value under PHP 50,000? true
+Stock meets minimum threshold (>=10)? true
